@@ -3,7 +3,7 @@ Personal Website
 
 ## This is a sample layout of Bazaarsutra Website, One of my pet projects.
 
-###Deployed Project Link: https://kruzes1.github.io/bazaarsutra/
+Deployed Project Link: https://kruzes1.github.io/bazaarsutra/
 
 I am open for feedback, suggestions and ideas on how to improve and make it more interactive.
 
